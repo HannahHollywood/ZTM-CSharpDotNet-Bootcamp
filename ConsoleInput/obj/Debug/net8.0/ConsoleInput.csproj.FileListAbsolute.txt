@@ -1,0 +1,14 @@
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\bin\Debug\net8.0\ConsoleInput.exe
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\bin\Debug\net8.0\ConsoleInput.deps.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\bin\Debug\net8.0\ConsoleInput.runtimeconfig.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\bin\Debug\net8.0\ConsoleInput.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\bin\Debug\net8.0\ConsoleInput.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.AssemblyInfo.cs
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\refint\ConsoleInput.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.genruntimeconfig.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ref\ConsoleInput.dll

@@ -1,0 +1,14 @@
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\bin\Debug\net8.0\ProgramArguments.exe
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\bin\Debug\net8.0\ProgramArguments.deps.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\bin\Debug\net8.0\ProgramArguments.runtimeconfig.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\bin\Debug\net8.0\ProgramArguments.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\bin\Debug\net8.0\ProgramArguments.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\obj\Debug\net8.0\ProgramArguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\obj\Debug\net8.0\ProgramArguments.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\obj\Debug\net8.0\ProgramArguments.AssemblyInfo.cs
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\obj\Debug\net8.0\ProgramArguments.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\obj\Debug\net8.0\ProgramArguments.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\obj\Debug\net8.0\refint\ProgramArguments.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\obj\Debug\net8.0\ProgramArguments.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\obj\Debug\net8.0\ProgramArguments.genruntimeconfig.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArguments\obj\Debug\net8.0\ref\ProgramArguments.dll

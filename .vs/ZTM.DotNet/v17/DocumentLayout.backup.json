@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTMConsoleBasedCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73694C5E-8229-4054-9B85-A6E3EC0E9A36}|ConsoleInput\\ConsoleInput.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztmconsolebasedcalculator\\consoleinput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73694C5E-8229-4054-9B85-A6E3EC0E9A36}|ConsoleInput\\ConsoleInput.csproj|solutionrelative:consoleinput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9846AA55-C89F-4365-9321-78596A1E3F20}|ConsoleBasedCalculator\\ConsoleBasedCalculator.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztmconsolebasedcalculator\\consolebasedcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9846AA55-C89F-4365-9321-78596A1E3F20}|ConsoleBasedCalculator\\ConsoleBasedCalculator.csproj|solutionrelative:consolebasedcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEEC024-7D93-4926-BD0F-B8686B42BA91}|ZTMExercise1\\HappyBirthdayMessage.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztmconsolebasedcalculator\\ztmexercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEEC024-7D93-4926-BD0F-B8686B42BA91}|ZTMExercise1\\HappyBirthdayMessage.csproj|solutionrelative:ztmexercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTMConsoleBasedCalculator\\ZTMExercise1\\Program.cs",
+              "RelativeDocumentMoniker": "ZTMExercise1\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTMConsoleBasedCalculator\\ZTMExercise1\\Program.cs",
+              "RelativeToolTip": "ZTMExercise1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T05:55:06.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTMConsoleBasedCalculator\\ConsoleInput\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleInput\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTMConsoleBasedCalculator\\ConsoleInput\\Program.cs",
+              "RelativeToolTip": "ConsoleInput\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T05:45:15.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTMConsoleBasedCalculator\\ConsoleBasedCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleBasedCalculator\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTMConsoleBasedCalculator\\ConsoleBasedCalculator\\Program.cs",
+              "RelativeToolTip": "ConsoleBasedCalculator\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:48:07.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

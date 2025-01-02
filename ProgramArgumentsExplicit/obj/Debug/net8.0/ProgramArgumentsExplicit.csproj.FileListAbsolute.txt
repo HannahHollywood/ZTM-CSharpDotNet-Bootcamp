@@ -1,0 +1,14 @@
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net8.0\ProgramArgumentsExplicit.exe
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net8.0\ProgramArgumentsExplicit.deps.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net8.0\ProgramArgumentsExplicit.runtimeconfig.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net8.0\ProgramArgumentsExplicit.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net8.0\ProgramArgumentsExplicit.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.AssemblyInfo.cs
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\refint\ProgramArgumentsExplicit.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.genruntimeconfig.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ref\ProgramArgumentsExplicit.dll

@@ -1,0 +1,14 @@
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\bin\Debug\net8.0\TypeConversion.exe
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\bin\Debug\net8.0\TypeConversion.deps.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\bin\Debug\net8.0\TypeConversion.runtimeconfig.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\bin\Debug\net8.0\TypeConversion.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\bin\Debug\net8.0\TypeConversion.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\obj\Debug\net8.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\obj\Debug\net8.0\TypeConversion.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\obj\Debug\net8.0\TypeConversion.AssemblyInfo.cs
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\obj\Debug\net8.0\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\obj\Debug\net8.0\TypeConversion.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\obj\Debug\net8.0\refint\TypeConversion.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\obj\Debug\net8.0\TypeConversion.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\obj\Debug\net8.0\TypeConversion.genruntimeconfig.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\TypeConversion\obj\Debug\net8.0\ref\TypeConversion.dll

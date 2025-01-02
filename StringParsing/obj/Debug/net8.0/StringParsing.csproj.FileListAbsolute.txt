@@ -1,0 +1,14 @@
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\bin\Debug\net8.0\StringParsing.exe
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\bin\Debug\net8.0\StringParsing.deps.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\bin\Debug\net8.0\StringParsing.runtimeconfig.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\bin\Debug\net8.0\StringParsing.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\bin\Debug\net8.0\StringParsing.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.AssemblyInfo.cs
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\obj\Debug\net8.0\refint\StringParsing.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.genruntimeconfig.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\StringParsing\obj\Debug\net8.0\ref\StringParsing.dll

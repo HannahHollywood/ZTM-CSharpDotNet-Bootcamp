@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\bin\Debug\net8.0\HappyBirthdayMessage.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\bin\Debug\net8.0\HappyBirthdayMessage.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\bin\Debug\net8.0\HappyBirthdayMessage.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\bin\Debug\net8.0\HappyBirthdayMessage.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\bin\Debug\net8.0\HappyBirthdayMessage.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\obj\Debug\net8.0\HappyBirthdayMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\obj\Debug\net8.0\HappyBirthdayMessage.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\obj\Debug\net8.0\HappyBirthdayMessage.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\obj\Debug\net8.0\HappyBirthdayMessage.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\obj\Debug\net8.0\HappyBirthdayMessage.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\obj\Debug\net8.0\HappyBirthdayMessage.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\obj\Debug\net8.0\refint\HappyBirthdayMessage.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\obj\Debug\net8.0\HappyBirthdayMessage.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\obj\Debug\net8.0\HappyBirthdayMessage.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ZTMExercise1\obj\Debug\net8.0\ref\HappyBirthdayMessage.dll

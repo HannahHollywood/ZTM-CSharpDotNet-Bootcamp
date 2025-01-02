@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\bin\Debug\net8.0\ConsoleBasedCalculator.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\bin\Debug\net8.0\ConsoleBasedCalculator.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\bin\Debug\net8.0\ConsoleBasedCalculator.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\bin\Debug\net8.0\ConsoleBasedCalculator.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\bin\Debug\net8.0\ConsoleBasedCalculator.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\obj\Debug\net8.0\refint\ConsoleBasedCalculator.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\obj\Debug\net8.0\ConsoleBasedCalculator.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTMConsoleBasedCalculator\ConsoleBasedCalculator\obj\Debug\net8.0\ref\ConsoleBasedCalculator.dll

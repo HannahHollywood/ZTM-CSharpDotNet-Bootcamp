@@ -1,0 +1,14 @@
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\bin\Debug\net8.0\IterationStatements.exe
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\bin\Debug\net8.0\IterationStatements.deps.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\bin\Debug\net8.0\IterationStatements.runtimeconfig.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\bin\Debug\net8.0\IterationStatements.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\bin\Debug\net8.0\IterationStatements.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\obj\Debug\net8.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\obj\Debug\net8.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\obj\Debug\net8.0\IterationStatements.AssemblyInfo.cs
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\obj\Debug\net8.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\obj\Debug\net8.0\IterationStatements.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\obj\Debug\net8.0\refint\IterationStatements.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\obj\Debug\net8.0\IterationStatements.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\obj\Debug\net8.0\IterationStatements.genruntimeconfig.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\IterationStatements\obj\Debug\net8.0\ref\IterationStatements.dll

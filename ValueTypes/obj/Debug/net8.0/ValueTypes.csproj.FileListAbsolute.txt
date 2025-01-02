@@ -1,0 +1,14 @@
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\bin\Debug\net8.0\ValueTypes.exe
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\bin\Debug\net8.0\ValueTypes.deps.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\bin\Debug\net8.0\ValueTypes.runtimeconfig.json
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\bin\Debug\net8.0\ValueTypes.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\bin\Debug\net8.0\ValueTypes.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.AssemblyInfo.cs
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\refint\ValueTypes.dll
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.pdb
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.genruntimeconfig.cache
+C:\Projects\Personal-Projects\c-sharp-dotnet\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ref\ValueTypes.dll
