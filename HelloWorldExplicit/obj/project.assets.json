@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Personal-Projects\\c-sharp-dotnet\\ZTMConsoleBasedCalculator\\HelloWorldExplicit\\HelloWorldExplicit.csproj",
+      "projectUniqueName": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\HelloWorldExplicit\\HelloWorldExplicit.csproj",
       "projectName": "HelloWorldExplicit",
-      "projectPath": "C:\\Projects\\Personal-Projects\\c-sharp-dotnet\\ZTMConsoleBasedCalculator\\HelloWorldExplicit\\HelloWorldExplicit.csproj",
+      "projectPath": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\HelloWorldExplicit\\HelloWorldExplicit.csproj",
       "packagesPath": "C:\\Users\\hannha\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Personal-Projects\\c-sharp-dotnet\\ZTMConsoleBasedCalculator\\HelloWorldExplicit\\obj\\",
+      "outputPath": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\HelloWorldExplicit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\bin\Debug\net8.0\HouseSaleChecker.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\bin\Debug\net8.0\HouseSaleChecker.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\bin\Debug\net8.0\HouseSaleChecker.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\bin\Debug\net8.0\HouseSaleChecker.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\bin\Debug\net8.0\HouseSaleChecker.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\obj\Debug\net8.0\HouseSaleChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\obj\Debug\net8.0\HouseSaleChecker.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\obj\Debug\net8.0\HouseSaleChecker.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\obj\Debug\net8.0\HouseSaleChecker.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\obj\Debug\net8.0\HouseSaleChecker.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\obj\Debug\net8.0\HouseSaleChecker.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\obj\Debug\net8.0\refint\HouseSaleChecker.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\obj\Debug\net8.0\HouseSaleChecker.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\obj\Debug\net8.0\HouseSaleChecker.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\HouseSaleChecker\obj\Debug\net8.0\ref\HouseSaleChecker.dll

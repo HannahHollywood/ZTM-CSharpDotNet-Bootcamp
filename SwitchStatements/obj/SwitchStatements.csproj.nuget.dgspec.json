@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTMConsoleBasedCalculator\\SwitchStatements\\SwitchStatements.csproj": {}
+    "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\SwitchStatements\\SwitchStatements.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTMConsoleBasedCalculator\\SwitchStatements\\SwitchStatements.csproj": {
+    "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\SwitchStatements\\SwitchStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTMConsoleBasedCalculator\\SwitchStatements\\SwitchStatements.csproj",
+        "projectUniqueName": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\SwitchStatements\\SwitchStatements.csproj",
         "projectName": "SwitchStatements",
-        "projectPath": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTMConsoleBasedCalculator\\SwitchStatements\\SwitchStatements.csproj",
+        "projectPath": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\SwitchStatements\\SwitchStatements.csproj",
         "packagesPath": "C:\\Users\\hannha\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTMConsoleBasedCalculator\\SwitchStatements\\obj\\",
+        "outputPath": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\SwitchStatements\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
