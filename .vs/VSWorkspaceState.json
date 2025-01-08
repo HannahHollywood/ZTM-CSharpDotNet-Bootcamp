@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HappyBirthdayMessage"
+    "\\HouseSaleChecker"
   ],
-  "SelectedNode": "\\ZTM.DotNet.sln",
+  "SelectedNode": "\\HouseSaleChecker\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

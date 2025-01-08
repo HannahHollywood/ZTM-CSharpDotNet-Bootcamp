@@ -1,28 +1,4 @@
-﻿//Person person1 = new Person();
-//Person person2 = new Person();
-
-//person1.Name = "Beth";
-//Console.WriteLine(person1.Name);
-
-//class Person
-//{
-//    private string _name;
-
-//    // type `ctor` to auto generate class:
-//    public Person()
-//    {
-//        _name = "Hannah";
-//    }
-
-//    public string Name
-//    {
-//        get {  return _name; }
-//        set {  _name = value; }
-//    }
-//}
-
-
-Person person1 = new Person("Hannah");
+﻿Person person1 = new Person("Hannah");
 Person person2 = new Person("Beth");
 
 Console.WriteLine(person1.Name);
@@ -34,9 +10,9 @@ person2.PrintGreeting();
 string greeting = person1.GetGreeting();
 Console.WriteLine(greeting);
 
-Math math = new Math();
-int result = math.Sum(14, 16);
+int result = Math.Sum(14, 16);
 Console.WriteLine(result);
+Console.WriteLine(Math.PI);
 
 class Person
 {
@@ -61,10 +37,41 @@ class Person
     }
 }
 
-public class Math
+public static class Math
 {
-    public int Sum(int a, int b)
+    public static double PI
+    {
+        get { return 3.14d;  }
+    }
+
+    public static int Sum(int a, int b)
     {
         return a + b;
     }
 }
+
+
+// --- First example in video:
+
+//Person person1 = new Person();
+//Person person2 = new Person();
+
+//person1.Name = "Beth";
+//Console.WriteLine(person1.Name);
+
+//class Person
+//{
+//    private string _name;
+
+//    // type `ctor` to auto generate class:
+//    public Person()
+//    {
+//        _name = "Hannah";
+//    }
+
+//    public string Name
+//    {
+//        get {  return _name; }
+//        set {  _name = value; }
+//    }
+//}

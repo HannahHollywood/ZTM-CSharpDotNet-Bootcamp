@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DEA8064-17B8-4D99-910B-2AB6E89D3617}|HouseSaleChecker\\HouseSaleChecker.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\housesalechecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DEA8064-17B8-4D99-910B-2AB6E89D3617}|HouseSaleChecker\\HouseSaleChecker.csproj|solutionrelative:housesalechecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{259D2E9B-AC07-42AF-A2D8-B5AD1E832ACF}|AdvancedVariableScopes\\AdvancedVariableScopes.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\advancedvariablescopes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{259D2E9B-AC07-42AF-A2D8-B5AD1E832ACF}|AdvancedVariableScopes\\AdvancedVariableScopes.csproj|solutionrelative:advancedvariablescopes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F522777-A899-48F6-8586-3E810D40246C}|Polymorphism\\Polymorphism.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F522777-A899-48F6-8586-3E810D40246C}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27715A03-F393-4F5B-9037-70FC8232922E}|Inheritance\\Inheritance.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27715A03-F393-4F5B-9037-70FC8232922E}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\HouseSaleChecker\\Program.cs",
-              "RelativeDocumentMoniker": "HouseSaleChecker\\Program.cs",
-              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\HouseSaleChecker\\Program.cs",
-              "RelativeToolTip": "HouseSaleChecker\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABLAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\AdvancedVariableScopes\\Program.cs",
+              "RelativeDocumentMoniker": "AdvancedVariableScopes\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\AdvancedVariableScopes\\Program.cs",
+              "RelativeToolTip": "AdvancedVariableScopes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T02:51:28.281Z",
+              "WhenOpened": "2025-01-08T05:43:24.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Polymorphism\\Program.cs",
+              "RelativeToolTip": "Polymorphism\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:54:37.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:29:08.792Z",
               "EditorCaption": ""
             }
           ]
