@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\bin\Debug\net8.0\ConsoleBasedAccountingSystem.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\bin\Debug\net8.0\ConsoleBasedAccountingSystem.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\bin\Debug\net8.0\ConsoleBasedAccountingSystem.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\bin\Debug\net8.0\ConsoleBasedAccountingSystem.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\bin\Debug\net8.0\ConsoleBasedAccountingSystem.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\obj\Debug\net8.0\ConsoleBasedAccountingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\obj\Debug\net8.0\ConsoleBasedAccountingSystem.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\obj\Debug\net8.0\ConsoleBasedAccountingSystem.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\obj\Debug\net8.0\ConsoleBasedAccountingSystem.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\obj\Debug\net8.0\ConsoleBasedAccountingSystem.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\obj\Debug\net8.0\ConsoleBasedAccountingSystem.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\obj\Debug\net8.0\refint\ConsoleBasedAccountingSystem.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\obj\Debug\net8.0\ConsoleBasedAccountingSystem.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\obj\Debug\net8.0\ConsoleBasedAccountingSystem.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ConsoleBasedAccountingSystem\obj\Debug\net8.0\ref\ConsoleBasedAccountingSystem.dll
