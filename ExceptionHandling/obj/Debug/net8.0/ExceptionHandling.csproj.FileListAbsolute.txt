@@ -1,0 +1,16 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\obj\Debug\net8.0\refint\ExceptionHandling.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\obj\Debug\net8.0\ref\ExceptionHandling.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ExceptionHandling\bin\Debug\net8.0\doc.txt

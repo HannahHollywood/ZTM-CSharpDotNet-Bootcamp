@@ -1,0 +1,3 @@
+﻿This is very important content. Well done you!
+
+// Note: to ge this to run, in the properties of the doc.txt file I changed 'Copy Output Directory' to 'Copy if newer'

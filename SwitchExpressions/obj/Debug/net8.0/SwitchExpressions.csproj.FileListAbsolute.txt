@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\bin\Debug\net8.0\SwitchExpressions.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\bin\Debug\net8.0\SwitchExpressions.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\bin\Debug\net8.0\SwitchExpressions.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\bin\Debug\net8.0\SwitchExpressions.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\bin\Debug\net8.0\SwitchExpressions.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\obj\Debug\net8.0\SwitchExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\obj\Debug\net8.0\SwitchExpressions.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\obj\Debug\net8.0\SwitchExpressions.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\obj\Debug\net8.0\SwitchExpressions.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\obj\Debug\net8.0\SwitchExpressions.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\obj\Debug\net8.0\SwitchExpressions.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\obj\Debug\net8.0\refint\SwitchExpressions.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\obj\Debug\net8.0\SwitchExpressions.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\obj\Debug\net8.0\SwitchExpressions.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\SwitchExpressions\obj\Debug\net8.0\ref\SwitchExpressions.dll

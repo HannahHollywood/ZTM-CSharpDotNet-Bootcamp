@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\obj\Debug\net8.0\Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\obj\Debug\net8.0\Enumerations.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\obj\Debug\net8.0\Enumerations.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\obj\Debug\net8.0\Enumerations.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\obj\Debug\net8.0\Enumerations.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\bin\Debug\net8.0\Enumerations.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\bin\Debug\net8.0\Enumerations.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\bin\Debug\net8.0\Enumerations.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\bin\Debug\net8.0\Enumerations.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\bin\Debug\net8.0\Enumerations.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\obj\Debug\net8.0\Enumerations.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\obj\Debug\net8.0\refint\Enumerations.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\obj\Debug\net8.0\Enumerations.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\obj\Debug\net8.0\Enumerations.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\Enumerations\obj\Debug\net8.0\ref\Enumerations.dll

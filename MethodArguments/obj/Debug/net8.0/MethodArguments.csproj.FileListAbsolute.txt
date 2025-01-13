@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\bin\Debug\net8.0\MethodArguments.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\bin\Debug\net8.0\MethodArguments.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\bin\Debug\net8.0\MethodArguments.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\bin\Debug\net8.0\MethodArguments.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\bin\Debug\net8.0\MethodArguments.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\obj\Debug\net8.0\MethodArguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\obj\Debug\net8.0\MethodArguments.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\obj\Debug\net8.0\MethodArguments.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\obj\Debug\net8.0\MethodArguments.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\obj\Debug\net8.0\MethodArguments.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\obj\Debug\net8.0\MethodArguments.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\obj\Debug\net8.0\refint\MethodArguments.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\obj\Debug\net8.0\MethodArguments.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\obj\Debug\net8.0\MethodArguments.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\MethodArguments\obj\Debug\net8.0\ref\MethodArguments.dll
