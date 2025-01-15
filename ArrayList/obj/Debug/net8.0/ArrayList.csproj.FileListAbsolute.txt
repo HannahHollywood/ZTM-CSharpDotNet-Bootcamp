@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\bin\Debug\net8.0\ArrayList.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\bin\Debug\net8.0\ArrayList.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\obj\Debug\net8.0\ArrayList.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\obj\Debug\net8.0\ArrayList.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD401613-1490-4352-9B5C-43D8889C957E}|ExceptionHandling\\ExceptionHandling.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD401613-1490-4352-9B5C-43D8889C957E}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40150C87-8066-48C3-8618-8CC15AF365A9}|List\\List.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40150C87-8066-48C3-8618-8CC15AF365A9}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C721CC16-8F24-48EF-AEA8-CDE69394ECF0}|MethodArguments\\MethodArguments.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\methodarguments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C721CC16-8F24-48EF-AEA8-CDE69394ECF0}|MethodArguments\\MethodArguments.csproj|solutionrelative:methodarguments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{454C5B42-43A7-403D-97BD-88969495D5EB}|ArrayList\\ArrayList.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454C5B42-43A7-403D-97BD-88969495D5EB}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD401613-1490-4352-9B5C-43D8889C957E}|ExceptionHandling\\ExceptionHandling.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\exceptionhandling\\doc.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{DD401613-1490-4352-9B5C-43D8889C957E}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\doc.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3B59470F-D52A-4BA5-809A-17CC6428AC1F}|Arrays\\Arrays.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B59470F-D52A-4BA5-809A-17CC6428AC1F}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 266,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "doc.txt",
-              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\ExceptionHandling\\doc.txt",
-              "RelativeDocumentMoniker": "ExceptionHandling\\doc.txt",
-              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\ExceptionHandling\\doc.txt",
-              "RelativeToolTip": "ExceptionHandling\\doc.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-13T07:32:13.745Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\ExceptionHandling\\Program.cs",
-              "RelativeDocumentMoniker": "ExceptionHandling\\Program.cs",
-              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\ExceptionHandling\\Program.cs",
-              "RelativeToolTip": "ExceptionHandling\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\List\\Program.cs",
+              "RelativeDocumentMoniker": "List\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\List\\Program.cs",
+              "RelativeToolTip": "List\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T07:27:34.008Z",
+              "WhenOpened": "2025-01-14T02:47:56.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\MethodArguments\\Program.cs",
-              "RelativeDocumentMoniker": "MethodArguments\\Program.cs",
-              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\MethodArguments\\Program.cs",
-              "RelativeToolTip": "MethodArguments\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayList\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\ArrayList\\Program.cs",
+              "RelativeToolTip": "ArrayList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T07:05:23.032Z",
+              "WhenOpened": "2025-01-14T02:43:56.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T02:29:48.046Z",
               "EditorCaption": ""
             }
           ]

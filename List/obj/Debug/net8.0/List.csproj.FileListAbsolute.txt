@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\bin\Debug\net8.0\List.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\bin\Debug\net8.0\List.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\bin\Debug\net8.0\List.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\bin\Debug\net8.0\List.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\bin\Debug\net8.0\List.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\obj\Debug\net8.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\obj\Debug\net8.0\List.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\obj\Debug\net8.0\List.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\obj\Debug\net8.0\List.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\obj\Debug\net8.0\List.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\obj\Debug\net8.0\List.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\obj\Debug\net8.0\refint\List.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\obj\Debug\net8.0\List.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\obj\Debug\net8.0\List.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\List\obj\Debug\net8.0\ref\List.dll
