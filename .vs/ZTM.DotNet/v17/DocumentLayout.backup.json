@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{786E64FF-D60B-4E22-A120-147C0728E3E5}|Queue\\Queue.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{786E64FF-D60B-4E22-A120-147C0728E3E5}|Queue\\Queue.csproj|solutionrelative:queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDF29D89-8F1A-440B-819B-4FDA1A02C80D}|Generics\\Generics.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF29D89-8F1A-440B-819B-4FDA1A02C80D}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EA44D74-9017-43DC-8367-8F65FB283A61}|Dictionary\\Dictionary.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EA44D74-9017-43DC-8367-8F65FB283A61}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B5EEF08-1C2A-4D50-9826-F7EA2223E216}|NamedArguments\\NamedArguments.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\namedarguments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EEF08-1C2A-4D50-9826-F7EA2223E216}|NamedArguments\\NamedArguments.csproj|solutionrelative:namedarguments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45A76AC2-C6CB-498B-ABBD-BECB9C8ACFFA}|Stack\\Stack.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45A76AC2-C6CB-498B-ABBD-BECB9C8ACFFA}|Stack\\Stack.csproj|solutionrelative:stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B5EEF08-1C2A-4D50-9826-F7EA2223E216}|NamedArguments\\NamedArguments.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\namedarguments\\personextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EEF08-1C2A-4D50-9826-F7EA2223E216}|NamedArguments\\NamedArguments.csproj|solutionrelative:namedarguments\\personextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40150C87-8066-48C3-8618-8CC15AF365A9}|List\\List.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40150C87-8066-48C3-8618-8CC15AF365A9}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{454C5B42-43A7-403D-97BD-88969495D5EB}|ArrayList\\ArrayList.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{454C5B42-43A7-403D-97BD-88969495D5EB}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B59470F-D52A-4BA5-809A-17CC6428AC1F}|Arrays\\Arrays.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B59470F-D52A-4BA5-809A-17CC6428AC1F}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00359151-427C-4735-8560-C099E2B7A658}|ExtensionMethods\\ExtensionMethods.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\extensionmethods\\personextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00359151-427C-4735-8560-C099E2B7A658}|ExtensionMethods\\ExtensionMethods.csproj|solutionrelative:extensionmethods\\personextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,77 +32,53 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Queue\\Program.cs",
-              "RelativeDocumentMoniker": "Queue\\Program.cs",
-              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Queue\\Program.cs",
-              "RelativeToolTip": "Queue\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Generics\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Generics\\Program.cs",
+              "RelativeToolTip": "Generics\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T02:36:28.457Z",
+              "WhenOpened": "2025-01-17T03:16:25.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\ExtensionMethods\\PersonExtensions.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods\\PersonExtensions.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\ExtensionMethods\\PersonExtensions.cs",
+              "RelativeToolTip": "ExtensionMethods\\PersonExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T03:07:34.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\NamedArguments\\PersonExtensions.cs",
+              "RelativeDocumentMoniker": "NamedArguments\\PersonExtensions.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\NamedArguments\\PersonExtensions.cs",
+              "RelativeToolTip": "NamedArguments\\PersonExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T03:04:43.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Dictionary\\Program.cs",
-              "RelativeDocumentMoniker": "Dictionary\\Program.cs",
-              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Dictionary\\Program.cs",
-              "RelativeToolTip": "Dictionary\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBgAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\NamedArguments\\Program.cs",
+              "RelativeDocumentMoniker": "NamedArguments\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\NamedArguments\\Program.cs",
+              "RelativeToolTip": "NamedArguments\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T02:27:06.741Z",
+              "WhenOpened": "2025-01-17T00:55:12.508Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Stack\\Program.cs",
-              "RelativeDocumentMoniker": "Stack\\Program.cs",
-              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Stack\\Program.cs",
-              "RelativeToolTip": "Stack\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T02:15:08.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\List\\Program.cs",
-              "RelativeDocumentMoniker": "List\\Program.cs",
-              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\List\\Program.cs",
-              "RelativeToolTip": "List\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T02:47:56.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\ArrayList\\Program.cs",
-              "RelativeDocumentMoniker": "ArrayList\\Program.cs",
-              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\ArrayList\\Program.cs",
-              "RelativeToolTip": "ArrayList\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T02:43:56.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Arrays\\Program.cs",
-              "RelativeDocumentMoniker": "Arrays\\Program.cs",
-              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\Arrays\\Program.cs",
-              "RelativeToolTip": "Arrays\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T02:29:48.046Z"
             }
           ]
         }

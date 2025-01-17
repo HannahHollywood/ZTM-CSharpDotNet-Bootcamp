@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\bin\Debug\net8.0\NamedArguments.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\bin\Debug\net8.0\NamedArguments.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\bin\Debug\net8.0\NamedArguments.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\bin\Debug\net8.0\NamedArguments.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\bin\Debug\net8.0\NamedArguments.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\obj\Debug\net8.0\NamedArguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\obj\Debug\net8.0\NamedArguments.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\obj\Debug\net8.0\NamedArguments.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\obj\Debug\net8.0\NamedArguments.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\obj\Debug\net8.0\NamedArguments.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\obj\Debug\net8.0\NamedArguments.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\obj\Debug\net8.0\refint\NamedArguments.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\obj\Debug\net8.0\NamedArguments.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\obj\Debug\net8.0\NamedArguments.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NamedArguments\obj\Debug\net8.0\ref\NamedArguments.dll
