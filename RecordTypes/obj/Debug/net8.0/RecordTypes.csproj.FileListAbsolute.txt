@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\bin\Debug\net8.0\RecordTypes.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\bin\Debug\net8.0\RecordTypes.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\bin\Debug\net8.0\RecordTypes.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\bin\Debug\net8.0\RecordTypes.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\bin\Debug\net8.0\RecordTypes.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\obj\Debug\net8.0\RecordTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\obj\Debug\net8.0\RecordTypes.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\obj\Debug\net8.0\RecordTypes.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\obj\Debug\net8.0\RecordTypes.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\obj\Debug\net8.0\RecordTypes.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\obj\Debug\net8.0\RecordTypes.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\obj\Debug\net8.0\refint\RecordTypes.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\obj\Debug\net8.0\RecordTypes.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\obj\Debug\net8.0\RecordTypes.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\RecordTypes\obj\Debug\net8.0\ref\RecordTypes.dll

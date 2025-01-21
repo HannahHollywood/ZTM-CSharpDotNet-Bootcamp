@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\bin\Debug\net8.0\NullableValueTypes.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\bin\Debug\net8.0\NullableValueTypes.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\bin\Debug\net8.0\NullableValueTypes.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\bin\Debug\net8.0\NullableValueTypes.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\bin\Debug\net8.0\NullableValueTypes.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\obj\Debug\net8.0\NullableValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\obj\Debug\net8.0\NullableValueTypes.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\obj\Debug\net8.0\NullableValueTypes.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\obj\Debug\net8.0\NullableValueTypes.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\obj\Debug\net8.0\NullableValueTypes.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\obj\Debug\net8.0\NullableValueTypes.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\obj\Debug\net8.0\refint\NullableValueTypes.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\obj\Debug\net8.0\NullableValueTypes.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\obj\Debug\net8.0\NullableValueTypes.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NulableValueTypes\obj\Debug\net8.0\ref\NullableValueTypes.dll

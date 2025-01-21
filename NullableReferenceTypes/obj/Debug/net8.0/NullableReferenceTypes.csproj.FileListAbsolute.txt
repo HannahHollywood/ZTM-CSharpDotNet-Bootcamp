@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\obj\Debug\net8.0\refint\NullableReferenceTypes.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\NullableReferenceTypes\obj\Debug\net8.0\ref\NullableReferenceTypes.dll
