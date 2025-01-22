@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C2FA2E1-37D2-41D0-8A29-9288CCA41062}|RecordTypes\\RecordTypes.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\recordtypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C2FA2E1-37D2-41D0-8A29-9288CCA41062}|RecordTypes\\RecordTypes.csproj|solutionrelative:recordtypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C16181D-B6D1-4E28-AA19-3B0FFA98668F}|AsyncAwait\\AsyncAwait.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\asyncawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C16181D-B6D1-4E28-AA19-3B0FFA98668F}|AsyncAwait\\AsyncAwait.csproj|solutionrelative:asyncawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A878BF73-89FE-4021-A29E-ECAA4D4FD726}|NullableReferenceTypes\\NullableReferenceTypes.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\nullablereferencetypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A878BF73-89FE-4021-A29E-ECAA4D4FD726}|NullableReferenceTypes\\NullableReferenceTypes.csproj|solutionrelative:nullablereferencetypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5085B26B-4AAF-4ED3-B556-4EFFC7A25B73}|CustomExceptionTypes\\CustomExceptionTypes.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\customexceptiontypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5085B26B-4AAF-4ED3-B556-4EFFC7A25B73}|CustomExceptionTypes\\CustomExceptionTypes.csproj|solutionrelative:customexceptiontypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5085B26B-4AAF-4ED3-B556-4EFFC7A25B73}|CustomExceptionTypes\\CustomExceptionTypes.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\customexceptiontypes\\invalidusernameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5085B26B-4AAF-4ED3-B556-4EFFC7A25B73}|CustomExceptionTypes\\CustomExceptionTypes.csproj|solutionrelative:customexceptiontypes\\invalidusernameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85E44F6-DC96-480F-8F09-2406A687170F}|ClassLibrary\\ClassLibrary.csproj|c:\\projects\\personal-projects\\c-sharp-dotnet\\ztm-csharpdotnet-bootcamp\\classlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85E44F6-DC96-480F-8F09-2406A687170F}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +32,53 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\RecordTypes\\Program.cs",
-              "RelativeDocumentMoniker": "RecordTypes\\Program.cs",
-              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\RecordTypes\\Program.cs",
-              "RelativeToolTip": "RecordTypes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\AsyncAwait\\Program.cs",
+              "RelativeDocumentMoniker": "AsyncAwait\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\AsyncAwait\\Program.cs",
+              "RelativeToolTip": "AsyncAwait\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T00:55:57.837Z",
+              "WhenOpened": "2025-01-22T01:12:11.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvalidUsernameException.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\CustomExceptionTypes\\InvalidUsernameException.cs",
+              "RelativeDocumentMoniker": "CustomExceptionTypes\\InvalidUsernameException.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\CustomExceptionTypes\\InvalidUsernameException.cs",
+              "RelativeToolTip": "CustomExceptionTypes\\InvalidUsernameException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T01:05:56.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\NullableReferenceTypes\\Program.cs",
-              "RelativeDocumentMoniker": "NullableReferenceTypes\\Program.cs",
-              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\NullableReferenceTypes\\Program.cs",
-              "RelativeToolTip": "NullableReferenceTypes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\CustomExceptionTypes\\Program.cs",
+              "RelativeDocumentMoniker": "CustomExceptionTypes\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\CustomExceptionTypes\\Program.cs",
+              "RelativeToolTip": "CustomExceptionTypes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T00:40:52.654Z"
+              "WhenOpened": "2025-01-22T01:04:21.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\ClassLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal-Projects\\C-Sharp-DotNet\\ZTM-CSharpDotNet-Bootcamp\\ClassLibrary\\Program.cs",
+              "RelativeToolTip": "ClassLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:56:25.084Z",
+              "EditorCaption": ""
             }
           ]
         }

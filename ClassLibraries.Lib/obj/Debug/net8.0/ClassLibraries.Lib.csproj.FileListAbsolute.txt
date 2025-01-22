@@ -1,0 +1,12 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ClassLibraries.Lib\bin\Debug\net8.0\ClassLibraries.Lib.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ClassLibraries.Lib\bin\Debug\net8.0\ClassLibraries.Lib.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ClassLibraries.Lib\bin\Debug\net8.0\ClassLibraries.Lib.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ClassLibraries.Lib\obj\Debug\net8.0\ClassLibraries.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ClassLibraries.Lib\obj\Debug\net8.0\ClassLibraries.Lib.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ClassLibraries.Lib\obj\Debug\net8.0\ClassLibraries.Lib.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ClassLibraries.Lib\obj\Debug\net8.0\ClassLibraries.Lib.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ClassLibraries.Lib\obj\Debug\net8.0\ClassLibraries.Lib.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ClassLibraries.Lib\obj\Debug\net8.0\ClassLibraries.Lib.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ClassLibraries.Lib\obj\Debug\net8.0\refint\ClassLibraries.Lib.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ClassLibraries.Lib\obj\Debug\net8.0\ClassLibraries.Lib.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\ClassLibraries.Lib\obj\Debug\net8.0\ref\ClassLibraries.Lib.dll

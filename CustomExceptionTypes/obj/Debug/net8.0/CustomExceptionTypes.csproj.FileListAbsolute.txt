@@ -1,0 +1,15 @@
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\bin\Debug\net8.0\CustomExceptionTypes.exe
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\bin\Debug\net8.0\CustomExceptionTypes.deps.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\bin\Debug\net8.0\CustomExceptionTypes.runtimeconfig.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\bin\Debug\net8.0\CustomExceptionTypes.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\bin\Debug\net8.0\CustomExceptionTypes.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\obj\Debug\net8.0\CustomExceptionTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\obj\Debug\net8.0\CustomExceptionTypes.AssemblyInfoInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\obj\Debug\net8.0\CustomExceptionTypes.AssemblyInfo.cs
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\obj\Debug\net8.0\CustomExceptionTypes.csproj.CoreCompileInputs.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\obj\Debug\net8.0\CustomExceptionTypes.sourcelink.json
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\obj\Debug\net8.0\CustomExceptionTypes.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\obj\Debug\net8.0\refint\CustomExceptionTypes.dll
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\obj\Debug\net8.0\CustomExceptionTypes.pdb
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\obj\Debug\net8.0\CustomExceptionTypes.genruntimeconfig.cache
+C:\Projects\Personal-Projects\C-Sharp-DotNet\ZTM-CSharpDotNet-Bootcamp\CustomExceptionTypes\obj\Debug\net8.0\ref\CustomExceptionTypes.dll
